@@ -1,0 +1,14 @@
+{
+  "name": "creatr",
+  "version": "1.0.0",
+  "description": "Ecommerce management as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Chowdhary (anandchowdhary@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
