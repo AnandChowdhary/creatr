@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "node-sass": "^4.5.3",
-    "sass-loader": "^6.0.6",
-    "webpack": "^3.7.1"
+    "sass-loader": "^13.2.0",
+    "webpack": "^5.75.0"
   }
 }
